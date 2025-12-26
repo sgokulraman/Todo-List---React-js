@@ -16,6 +16,8 @@
 }
 body{
     background: linear-gradient(120deg, black, rgb(182, 224, 233), white);
+    background-size: cover;
+    background-position: center;
 }
 .sub-container{
     list-style: none;
